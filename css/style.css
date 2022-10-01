@@ -1,6 +1,6 @@
 #top-cloud{
     position: relative;
-    top: 30px;
+    top: 15px;
     left: 300px;
 }
 
@@ -37,7 +37,7 @@ body{
 
 .top_cont{
     background-color: #7FBCD2;
-    padding-top: 50px;
+    padding-top: 162px;
     padding-bottom: 0px;
     font-family: 'Handlee', cursive;
     color: #A5F1E9;
